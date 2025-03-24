@@ -2,7 +2,7 @@ body {background-color: rgb(148, 145, 145);
 }
 h1 {text-align: center;
 font-size: 350%;
-  color: royalblue;}
+  color: rgb(26, 43, 94);}
 
 #img1{width: 20%;
   margin-left: 25%;
@@ -13,5 +13,5 @@ font-size: 350%;
 }
 
 h2 {text-align: center;
-font-size: 300%;
+font-size: 200%;
 color: aliceblue;}
