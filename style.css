@@ -13,6 +13,11 @@ font-size: 350%;
 }
 
 h2 {text-align: center;
-font-size: 200%;
+font-size: 10%;
 color: aliceblue;
+margin-left: 20%;}
+
+h3 {text-align: center;
+font-size: 10%;
+color: azure;
 margin-left: 20%;}
