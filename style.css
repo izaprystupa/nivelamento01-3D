@@ -4,6 +4,10 @@ h1 {text-align: center;
 font-size: 350%;
   color: rgb(26, 43, 94);}
 
+  h4 {text-align: center;
+    font-size: 250%;
+    color: cornflowerblue;}
+
 #img1{width: 20%;
   margin-left: 25%;
 }
@@ -22,6 +26,3 @@ font-size: 200%;
 color: azure;
 margin-left: 20%;}
 
-h4 {text-align: center;
-font-size: 200%;
-color: cornflowerblue;}
